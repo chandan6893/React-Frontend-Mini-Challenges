@@ -1,0 +1,9 @@
+.ToDO{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+}
+.ToDOInputGroup{
+    max-width: 40rem;
+}
